@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My-Cart-second/static/css/main.63b5f06a.css",
+    "main.js": "/My-Cart-second/static/js/main.c3352adb.js",
+    "index.html": "/My-Cart-second/index.html",
+    "main.63b5f06a.css.map": "/My-Cart-second/static/css/main.63b5f06a.css.map",
+    "main.c3352adb.js.map": "/My-Cart-second/static/js/main.c3352adb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63b5f06a.css",
+    "static/js/main.c3352adb.js"
+  ]
+}
